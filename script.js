@@ -1,16 +1,20 @@
 let yourArray =  [
 	{
 		name1 : "Darab"
-	}
+	},
+	
 	{
 		num1 : 69
-	}
+	},
+
 	{
-	bool : true
-	}
+		bool : true
+	},
+
 	{
-	name2 : "Mehtab"
-	}
+		name2 : "Mehtab"
+	},
+
 	{
 		num2 : 420
 	}
