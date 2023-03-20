@@ -1,3 +1,5 @@
+
+
 let yourArray =  [
 	"Darab",
 	69,
@@ -5,3 +7,5 @@ let yourArray =  [
 	"Mehtab",
 	420
 ]
+
+console.log(yourArray);
