@@ -1,5 +1,3 @@
-
-
 let yourArray =  [
 	"Darab",
 	69,
