@@ -6,4 +6,4 @@ let yourArray =  [
 	420
 ]
 
-console.log(yourArray);
+console.log(yourArray.length);
