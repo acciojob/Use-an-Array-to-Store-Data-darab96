@@ -1,4 +1,4 @@
-const yourArray =  [
+let yourArray =  [
 	{
 		name1 : "Darab"
 	},
