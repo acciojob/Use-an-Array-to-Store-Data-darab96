@@ -1,23 +1,3 @@
-let yourArray =  [
-	{
-		name1 : "Darab"
-	},
-	
-	{
-		num1 : 69
-	},
-
-	{
-		bool : true
-	},
-
-	{
-		name2 : "Mehtab"
-	},
-
-	{
-		num2 : 420
-	}
-]
+let yourArray =  ['darab', 2, true, 'rexwan', 3];
 
 console.log(yourArray);
